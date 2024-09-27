@@ -21,7 +21,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - Linguagem de Programação: Python
 - Bibliotecas utilizadas: Pandas, Matplotlib, Random
-- Outras ferramentas: Jupyter
+- Outras ferramentas: Jupyter Notebook
 
 ## Instalação
 
