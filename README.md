@@ -1,6 +1,6 @@
 # Nome do Projeto
 
-Nome do Projeto é uma aplicação [tipo da aplicação, por exemplo, "web", "desktop", "mobile"] desenvolvida para [finalidade ou problema que o projeto resolve]. Este projeto foi criado com o objetivo de [explicar brevemente a motivação e o propósito do projeto].
+Nome do Projeto é uma aplicação ["Web", "Desktop", "Mobile"] desenvolvida para [finalidade ou problema que o projeto resolve]. Este projeto foi criado com o objetivo de [explicar brevemente a motivação e o propósito do projeto].
 
 ## Índice
 - [Tecnologias Usadas](#tecnologias-usadas)
