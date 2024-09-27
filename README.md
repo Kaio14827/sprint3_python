@@ -38,6 +38,7 @@ Siga as etapas abaixo para instalar e executar o projeto localmente:
    [comando para instalar dependências, ex: npm install ou pip install -r requirements.txt]
 
 ## Uso
+
 [Instruções sobre como usar a aplicação, incluindo exemplos, se aplicável.]
 
 1.**Fork o repositório**
