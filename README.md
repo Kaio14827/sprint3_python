@@ -35,29 +35,31 @@ Siga as etapas abaixo para instalar e executar o projeto localmente:
 4. **Execute o projeto:**
    ```bash
    [comando para instalar dependências, ex: npm install ou pip install -r requirements.txt]
-
+   
 ## Uso
+
+[comando ou código de exemplo]
+
+## Contribuição
 
 [Instruções sobre como usar a aplicação, incluindo exemplos, se aplicável.]
 
 1. **Fork o repositório**
 
 2. **Crie uma nova branch:**
-```bash
-git checkout -b minha-nova-feature
+   ```bash
+   git checkout -b minha-nova-feature
 
 3. **Faça suas alterações e commit:**
-```bash
-git commit -m 'Adiciona nova feature'
+   ```bash
+   git commit -m 'Adiciona nova feature'
 
 4. **Envie para o repositório remoto:**
-```bash
-git push origin minha-nova-featu
+   ```bash
+   git push origin minha-nova-feature
 
-5**Crie um novo Pull Request:**
-```bash
-git push origin minha-nova-feature
-
+5. **Crie um novo Pull Request:**
+   
 ## Licença
 
 Este projeto está licenciado sob a [Nome da Licença]. Veja o arquivo LICENSE para mais detalhes.
