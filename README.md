@@ -14,8 +14,8 @@ Nome do Projeto é uma aplicação [tipo da aplicação, por exemplo, "web", "de
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- Linguagem de Programação: Python (link-para-documentacao)
-- Outras ferramentas: [Ex: Docker, Git, etc.] (link-para-documentacao)
+- Linguagem de Programação: [Python] 
+- Outras ferramentas: [Ex: Docker, Git, etc.] 
 
 ## Instalação
 
