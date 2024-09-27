@@ -15,7 +15,6 @@ Nome do Projeto é uma aplicação [tipo da aplicação, por exemplo, "web", "de
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - Linguagem de Programação: Python (link-para-documentacao)
-- Framework: [Jupyter] (link-para-documentacao)
 - Outras ferramentas: [Ex: Docker, Git, etc.] (link-para-documentacao)
 
 ## Instalação
@@ -40,5 +39,9 @@ Siga as etapas abaixo para instalar e executar o projeto localmente:
 
 ## Uso
 [Instruções sobre como usar a aplicação, incluindo exemplos, se aplicável.]
+
+1.**Fork o repositório**
+
+2.**Crie uma nova branch**
 ```bash
-[comando ou código de exemplo]
+git checkout -b minha-nova-feature
