@@ -1,20 +1,27 @@
-# Nome do Projeto
+# SPRINT 3 PYTHON - FÓRMULA-E 
 
 Nome do Projeto é uma aplicação ["Web", "Desktop", "Mobile"] desenvolvida para [finalidade ou problema que o projeto resolve]. Este projeto foi criado com o objetivo de [explicar brevemente a motivação e o propósito do projeto].
 
 ## Índice
+- [Funcionalidades](#funcionalidades)
 - [Tecnologias Usadas](#tecnologias-usadas)
 - [Instalação](#instalação)
 - [Uso](#uso)
 - [Contribuição](#contribuição)
-- [Licença](#licença)
+
+
+## Funcionalidades
+- Funcionalidade 1: [Descreva brevemente o que essa funcionalidade faz e como ela é útil.]
+- Funcionalidade 2: [Descreva brevemente a funcionalidade.]
+- Funcionalidade 3: [Continue listando as funcionalidades principais.]
+
 
 ## Tecnologias Usadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - Linguagem de Programação: [Python] 
-- Outras ferramentas: [Ex: Docker, Git, etc.] 
+- Outras ferramentas: [Jupyter, Pandas] 
 
 ## Instalação
 
@@ -22,7 +29,7 @@ Siga as etapas abaixo para instalar e executar o projeto localmente:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu_usuario/nome_do_projeto.git
+   git clone https://github.com/kaio14827/nome_do_projeto.git
    
 2. **Navegue até a pasta do projeto:**
    ```bash
@@ -30,7 +37,7 @@ Siga as etapas abaixo para instalar e executar o projeto localmente:
    
 3. **Instale as dependências:**
    ```bash
-   [comando para instalar dependências, ex: npm install ou pip install -r requirements.txt]
+   [npm install ou pip install -r requirements.txt]
 
 4. **Execute o projeto:**
    ```bash
@@ -58,8 +65,4 @@ Siga as etapas abaixo para instalar e executar o projeto localmente:
    ```bash
    git push origin minha-nova-feature
 
-5. **Crie um novo Pull Request:**
-   
-## Licença
-
-Este projeto está licenciado sob a [Nome da Licença]. Veja o arquivo LICENSE para mais detalhes.
+5. **Crie um novo Pull Request**
