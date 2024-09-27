@@ -1,4 +1,4 @@
-# SPRINT 3 PYTHON - FÓRMULA-E 
+# SPRINT 3 PYTHON - FÓRMULA-E (MAHINDRA)
 
 Nome do Projeto é uma aplicação ["Web", "Desktop", "Mobile"] desenvolvida para [finalidade ou problema que o projeto resolve]. Este projeto foi criado com o objetivo de [explicar brevemente a motivação e o propósito do projeto].
 
