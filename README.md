@@ -1,6 +1,6 @@
 # SPRINT 3 PYTHON - FÓRMULA-E (MAHINDRA)
 
-Nosso projeto é uma aplicação "Web", "Desktop" e "Mobile" desenvolvida para [finalidade ou problema que o projeto resolve]. Este projeto foi criado com o objetivo de [explicar brevemente a motivação e o propósito do projeto].
+Nosso projeto é uma aplicação "Web", "Desktop" e "Mobile" desenvolvida para fornecer uma plataforma abrangente com a finalidade de acompanhar e analisar a emocionante competição de carros elétricos da Fórmula E. O objetivo deste projeto é oferecer aos fãs e entusiastas da Fórmula E uma experiência envolvente e informativa, permitindo que eles se mantenham atualizados sobre corridas, resultados e estatísticas de desempenho de pilotos e equipes.
 
 ## Índice
 - [Funcionalidades](#funcionalidades)
@@ -9,16 +9,18 @@ Nosso projeto é uma aplicação "Web", "Desktop" e "Mobile" desenvolvida para [
 - [Contribuição](#contribuição)
 
 ## Funcionalidades
-- Funcionalidade 1: [Descreva brevemente o que essa funcionalidade faz e como ela é útil.]
-- Funcionalidade 2: [Descreva brevemente a funcionalidade.]
-- Funcionalidade 3: [Continue listando as funcionalidades principais.]
-
+- **Resultados em Tempo Real**: Acompanhe as corridas da Fórmula E em tempo real, com atualizações instantâneas sobre posições e tempos de volta.
+- **Análises Estatísticas**: Visualize dados detalhados sobre desempenhos de pilotos e equipes ao longo da temporada.
+- **Notificações Personalizadas**: Receba alertas sobre corridas, resultados e eventos especiais diretamente no seu dispositivo.
+- **Histórico de Corridas**: Acesse um banco de dados abrangente com informações sobre corridas passadas, incluindo resultados e estatísticas.
+- **Integração com Redes Sociais**: Compartilhe suas análises e resultados favoritos nas redes sociais com facilidade.
+  
 ## Tecnologias Usadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - Linguagem de Programação: Python
-- Biblioteca utilizada: Pandas
+- Bibliotecas utilizadas: Pandas, Matplotlib, Random
 - Outras ferramentas: Jupyter
 
 ## Instalação
@@ -35,11 +37,11 @@ Siga as etapas abaixo para instalar e executar o projeto localmente:
    
 3. **Instale as dependências:**
    ```bash
-   npm install ou pip install -r requirements.txt
+   pip install pandas tabulate -r requirements.txt
 
 4. **Execute o projeto:**
    ```bash
-   npm install ou pip install -r requirements.txt
+   pip install -r requirements.txt
    
 ## Contribuição
 
@@ -49,7 +51,7 @@ Contribuições são sempre bem-vindas! Se você deseja ajudar a melhorar este p
 
 2. **Crie uma nova branch:** 
    ```bash
-   git checkout -b minha-nova-feature
+   git checkout -b minha-nova-feature 'Escolha um nome para a sua feature'
 
 3. **Faça suas alterações e commit:**
    ```bash
@@ -57,10 +59,11 @@ Contribuições são sempre bem-vindas! Se você deseja ajudar a melhorar este p
 
 4. **Envie para o repositório remoto:**
    ```bash
-   git push origin minha-nova-feature
+   git push origin minha-nova-feature 'Nome da feature'
 
 5. **Crie um novo Pull Request**
 
 
 **Agradecimentos**
-Agradecemos todas as contribuições, grandes ou pequenas! Sua ajuda é fundamental para o crescimento e melhoria contínua da sprint3_python.
+
+Agradecemos todas as contribuições, grandes ou pequenas! Sua ajuda é fundamental para o crescimento e melhoria contínua deste nosso grande projeto.
