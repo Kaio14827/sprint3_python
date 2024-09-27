@@ -20,8 +20,9 @@ Nome do Projeto é uma aplicação ["Web", "Desktop", "Mobile"] desenvolvida par
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- Linguagem de Programação: [Python] 
-- Outras ferramentas: [Jupyter, Pandas] 
+- Linguagem de Programação: Python
+- Biblioteca utilizada: Pandas
+- Outras ferramentas: Jupyter
 
 ## Instalação
 
@@ -37,19 +38,19 @@ Siga as etapas abaixo para instalar e executar o projeto localmente:
    
 3. **Instale as dependências:**
    ```bash
-   [npm install ou pip install -r requirements.txt]
+   npm install ou pip install -r requirements.txt
 
 4. **Execute o projeto:**
    ```bash
-   [comando para instalar dependências, ex: npm install ou pip install -r requirements.txt]
+   npm install ou pip install -r requirements.txt
    
 ## Uso
 
-[comando ou código de exemplo]
+comando ou código de exemplo
 
 ## Contribuição
 
-[Instruções sobre como usar a aplicação, incluindo exemplos, se aplicável.]
+Instruções sobre como usar a aplicação, incluindo exemplos, se aplicável.
 
 1. **Fork o repositório**
 
