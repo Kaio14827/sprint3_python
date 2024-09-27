@@ -1,20 +1,17 @@
 # SPRINT 3 PYTHON - FÓRMULA-E (MAHINDRA)
 
-Nome do Projeto é uma aplicação ["Web", "Desktop", "Mobile"] desenvolvida para [finalidade ou problema que o projeto resolve]. Este projeto foi criado com o objetivo de [explicar brevemente a motivação e o propósito do projeto].
+Nosso projeto é uma aplicação "Web", "Desktop" e "Mobile" desenvolvida para [finalidade ou problema que o projeto resolve]. Este projeto foi criado com o objetivo de [explicar brevemente a motivação e o propósito do projeto].
 
 ## Índice
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Usadas](#tecnologias-usadas)
 - [Instalação](#instalação)
-- [Uso](#uso)
 - [Contribuição](#contribuição)
-
 
 ## Funcionalidades
 - Funcionalidade 1: [Descreva brevemente o que essa funcionalidade faz e como ela é útil.]
 - Funcionalidade 2: [Descreva brevemente a funcionalidade.]
 - Funcionalidade 3: [Continue listando as funcionalidades principais.]
-
 
 ## Tecnologias Usadas
 
@@ -30,11 +27,11 @@ Siga as etapas abaixo para instalar e executar o projeto localmente:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/kaio14827/nome_do_projeto.git
+   git clone https://github.com/kaio14827/sprint3_python.git
    
 2. **Navegue até a pasta do projeto:**
    ```bash
-   cd nome_do_projeto
+   cd SPRINT3_PYTHON
    
 3. **Instale as dependências:**
    ```bash
@@ -44,17 +41,13 @@ Siga as etapas abaixo para instalar e executar o projeto localmente:
    ```bash
    npm install ou pip install -r requirements.txt
    
-## Uso
-
-comando ou código de exemplo
-
 ## Contribuição
 
-Instruções sobre como usar a aplicação, incluindo exemplos, se aplicável.
+Contribuições são sempre bem-vindas! Se você deseja ajudar a melhorar este projeto, siga estas diretrizes:
 
-1. **Fork o repositório**
+1. **Fork o repositório** 
 
-2. **Crie uma nova branch:**
+2. **Crie uma nova branch:** 
    ```bash
    git checkout -b minha-nova-feature
 
@@ -67,3 +60,7 @@ Instruções sobre como usar a aplicação, incluindo exemplos, se aplicável.
    git push origin minha-nova-feature
 
 5. **Crie um novo Pull Request**
+
+
+**Agradecimentos**
+Agradecemos todas as contribuições, grandes ou pequenas! Sua ajuda é fundamental para o crescimento e melhoria contínua da sprint3_python.
