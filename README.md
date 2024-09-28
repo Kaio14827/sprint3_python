@@ -1,4 +1,4 @@
-# SPRINT 3 PYTHON - FÓRMULA-E (MAHINDRA)
+# SPRINT 3 PYTHON - FÓRMULA E (MAHINDRA)
 
 Nosso projeto é uma aplicação "Web", "Desktop" e "Mobile" desenvolvida para fornecer uma plataforma abrangente com a finalidade de acompanhar e analisar a emocionante competição de carros elétricos da Fórmula E. O objetivo deste projeto é oferecer aos fãs e entusiastas da Fórmula E uma experiência envolvente e informativa, permitindo que eles se mantenham atualizados sobre corridas, resultados e estatísticas de desempenho de pilotos e equipes.
 
